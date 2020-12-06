@@ -1,2 +1,2 @@
 FLASK_ENV=development
-FLASK_APP=flask_app
+FLASK_APP=/Users/guohuanyang/Desktop/person/flask_root/watchlist/flask_app.py
